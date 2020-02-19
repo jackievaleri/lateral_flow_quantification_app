@@ -15,7 +15,7 @@ Infection and rejection are major causes of graft loss in organ transplantation 
 * demo_positive_samples.mov: Supplementary Video File 1 showcasing the app
 
 ### Analysis
-To utilize the code, download the Jupyter notebook and sample_images folder and run. To utilize and build off the app, clone the repository and build a new project with Android Studio or another IDE. We are currently working on getting an open source license from Chaquopy<https://chaquo.com/chaquopy/license/> so there is a time limit on the app at the moment.
+To utilize the code, download the Jupyter notebook and sample_images folder and run. To utilize and build off the app, clone the repository and build a new project with Android Studio or another IDE. We are currently working on getting an open source license from Chaquopy[https://chaquo.com/chaquopy/license/] so there is a time limit on the app at the moment.
 
 ### Demo Video
 To reference the app's capability, please see the demo video included with the paper and in this repo.
