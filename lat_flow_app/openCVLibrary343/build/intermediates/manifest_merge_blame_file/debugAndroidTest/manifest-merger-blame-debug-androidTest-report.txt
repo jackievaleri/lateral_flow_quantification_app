@@ -3,41 +3,41 @@
 3    package="org.opencv.test" >
 4
 5    <uses-sdk
-5-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:5:5-74
+5-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:5:5-74
 6        android:minSdkVersion="14"
-6-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:5:15-41
+6-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:5:42-71
+7-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:11:5-15:65
+9-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:11:5-15:65
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:11:22-75
+10-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:11:22-75
 11        android:functionalTest="false"
-11-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:14:22-52
+11-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:13:22-53
+12-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:13:22-53
 13        android:label="Tests for org.opencv.test"
-13-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:15:22-63
+13-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:15:22-63
 14        android:targetPackage="org.opencv.test" />
-14-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:12:22-61
+14-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:12:22-61
 15
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
-16-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-77
+16-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+16-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-77
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
-17-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-78
+17-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+17-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-78
 18    <uses-permission android:name="android.permission.CAMERA" />
-18-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-65
-18-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-62
+18-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-65
+18-->[__tested_artifact__::openCVLibrary343] /Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-62
 19
 20    <application android:debuggable="true" >
-20-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:7:5-9:19
-20-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:7:18-43
+20-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:7:5-9:19
+20-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:7:18-43
 21        <uses-library android:name="android.test.runner" />
-21-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:8:9-60
-21-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger9077266562193876914.xml:8:23-57
+21-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:8:9-60
+21-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8189296910603027071.xml:8:23-57
 22    </application>
 23
 24</manifest>

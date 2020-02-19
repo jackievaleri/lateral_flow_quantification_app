@@ -6,18 +6,18 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
-8-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+8-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+9-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:7:5-80
-11-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:7:22-77
+11-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:7:5-80
+11-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:7:22-77
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:8:5-81
-12-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:8:22-78
+12-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:8:5-81
+12-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:8:22-78
 13    <uses-permission android:name="android.permission.CAMERA" />
-13-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:9:5-65
-13-->/Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:9:22-62
+13-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:9:5-65
+13-->/Users/jackie16201/Desktop/Fall 2019/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:9:22-62
 14
 15</manifest>
