@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml:9:22-62
+uses-sdk
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		ADDED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
+		INJECTED from /Users/jackie16201/Desktop/lat_flow_app/lateral_flow_quantification_app/lat_flow_app/openCVLibrary343/src/main/AndroidManifest.xml
