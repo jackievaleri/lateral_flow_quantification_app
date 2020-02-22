@@ -10,14 +10,6 @@ Repo was compiled by: Jacqueline A. Valeri and Miguel A. Alcantar.
 ## Abstract
 Infection and rejection are major causes of graft loss in organ transplantation and are linked by the net state of immunosuppression. Refined strategies to monitor transplanted patients are needed to diagnose and treat these conditions earlier in order to improve long-term outcomes.  Here, we show that CRISPR-Cas13 enables fast, low-cost, sensitive point-of-care detection of BK polyomavirus DNA, cytomegalovirus DNA and CXCL9 mRNA, allowing efficient monitoring of common opportunistic viral infections and rejection post-transplantation. BK virus and cytomegalovirus were detected from patient-derived blood and urine samples with high sensitivity and specificity. Similarly, CXCL9 mRNA was detected at elevated levels in urine samples from patients experiencing acute renal transplant rejection. The assay was also adapted for lateral flow read-out, enabling simple visualization and interpretability of results. This work demonstrates the potential for CRISPR-Cas13 diagnostics to facilitate point-of-care post-transplantation monitoring.
 
-## Installation
-
-~~~~~~~~~~~~~~~
-git clone https://github.com/jackievaleri/lateral_flow_quantification_app.git
-~~~~~~~~~~~~~~~
-
-Android app code can be compiled using Android Studio (Google, Mountain View, CA).
-
 ## Directory structure
 * `lat_flow_app/`: self-contained source code for the Android App
 * `ocr/`: auxillary functions for image processing 
@@ -25,6 +17,14 @@ Android app code can be compiled using Android Studio (Google, Mountain View, CA
 * `Lateral_flow_quantifier.ipynb`: jupyter notebook with signal quantification workflow (using openCV)
 * `LICENSE.txt`: GPLv3 License
 * `demo_positive_samples.mov`: Supplementary Video File 1 showcasing the app
+
+## Installation
+
+~~~~~~~~~~~~~~~
+git clone https://github.com/jackievaleri/lateral_flow_quantification_app.git
+~~~~~~~~~~~~~~~
+
+Android app code can be compiled using Android Studio (Google, Mountain View, CA). The jupyter notebook demonstrates the workflow used to process lateral flow images and can be used to process sample images.
 
 ## Analysis
 To utilize the code, download the Jupyter notebook and sample_images folder and run. To utilize and build off the app, clone the repository (see installation) and build a new project with Android Studio or another android IDE. We are currently working on getting an open source license from [Chaquopy](https://chaquo.com/chaquopy/license/) so there is a time limit on the app at the moment.
